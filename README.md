@@ -1,3 +1,5 @@
 # githubtest
 this is my github learnning test
-just for testing
+I am sitll learning it
+come on 
+will be much better
